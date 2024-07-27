@@ -1,0 +1,5 @@
+getgenv().script_key = "RiDEQpelAdhxPazVEnnWVAvNyPCkvtuj"; -- User's key
+getgenv().script_id = "7548f875614664d0e7dcc34157677517" -- Your script ID. You can find it in the loadstrings. Looks like 0948b02948b02948b0298b410
+
+
+ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/7548f875614664d0e7dcc34157677517.lua"))()
