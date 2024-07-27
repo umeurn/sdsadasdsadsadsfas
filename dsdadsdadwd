@@ -1,4 +1,4 @@
-getgenv().script_key = "gECzWCxofQZZpOYGYctirScnKLXsXUvZ"; -- User's key
+getgenv().script_key = "SkLIWSwYxOOeWuZIkmBFObmGHpFHoazd"; -- User's key
 getgenv().script_id = "7548f875614664d0e7dcc34157677517" -- Your script ID. You can find it in the loadstrings. Looks like 0948b02948b02948b0298b410
 
 
